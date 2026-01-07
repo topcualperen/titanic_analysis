@@ -1,0 +1,17 @@
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+
+# Data Analysis
+scikit-learn>=1.3.0
+
+# Additional Utilities
+python-dotenv>=1.0.0
